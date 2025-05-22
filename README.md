@@ -11,8 +11,13 @@ A Python script that implements and visualizes Dijkstra's algorithm on a grid-ba
 ## Requirements  
 - Python 3.x  
 - pygame  
-- numpy  
+- numpy
+
+## Screenshots
+![Screenshot](screenshots/1.png)
+![Screenshot](screenshots/2.png)
 
 You can install the required libraries with:
 ```bash
 pip install pygame numpy
+
